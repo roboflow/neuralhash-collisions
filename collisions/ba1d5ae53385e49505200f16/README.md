@@ -11,4 +11,4 @@ published to Kaggle in July 2017.
 ![Nail](n03804744_35012.jpeg?raw=true "ba1d5ae53385e49505200f16")
 
 * Ski: ILSVRC/Data/CLS-LOC/train/n04228054/n04228054_8087.JPEG
-![Ski](n04228054/n04228054_8087.jpeg?raw=true "ba1d5ae53385e49505200f16")
+![Ski](n04228054_8087.jpeg?raw=true "ba1d5ae53385e49505200f16")
