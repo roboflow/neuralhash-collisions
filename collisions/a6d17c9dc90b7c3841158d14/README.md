@@ -11,6 +11,6 @@ published to Kaggle in July 2017.
 
 ![Hatchet](n03498962_3240.jpeg?raw=true "a6d17c9dc90b7c3841158d14")
 
-* Nematode: `ILSVRC/Data/CLS-LOC/train/n04228054/n04228054_8087.JPEG`
+* Nematode: `ILSVRC/Data/CLS-LOC/train/n01930112/n01930112_14435.JPEG`
 
-![Nematode](n04228054_8087.jpeg?raw=true "a6d17c9dc90b7c3841158d14")
+![Nematode](n01930112_14435.jpeg?raw=true "a6d17c9dc90b7c3841158d14")
