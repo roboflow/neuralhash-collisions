@@ -5,7 +5,8 @@ See this [NeuralHash collision blog post](https://blog.roboflow.com/nerualhash-c
 
 ## Contributing
 
-PRs are welcome and encouraged! You can find the code to run NeuralHash on images in [this repo](). 
+PRs are welcome and encouraged! You can find the code to run NeuralHash on images in 
+[this repo](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX). 
 Please no not submit artificially generated adversarial examples. This repo is meant to document 
 natural collisions found in the wild.
 
