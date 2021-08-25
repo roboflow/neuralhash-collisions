@@ -11,6 +11,6 @@ Please no not submit artificially generated adversarial examples. This repo is m
 natural collisions found in the wild.
 
 Please follow the example format (add a folder in `collisions` named with the colliding hash and
-containing the example images with a README cataloging information about their provenance. Ideally
+containing the example images with a README cataloging information about their provenance). Ideally
 provide evidence that these images existed prior to the public divulgence of the NeuralHash weights
 to prove that they are not artificial.
